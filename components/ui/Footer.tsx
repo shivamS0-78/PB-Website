@@ -105,10 +105,10 @@ export default function Footer() {
 
           {/* Privacy Policy */}
           <Link
-            href="/privacy"
+            href="#"
             className="text-white/70 text-sm hover:text-white transition-colors text-center"
           >
-            Privacy Policy
+            {/* Privacy Policy */}
           </Link>
         </div>
       </div>
